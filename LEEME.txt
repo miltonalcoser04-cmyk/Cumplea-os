@@ -1,0 +1,19 @@
+INVITACIÓN WEB - LISTA PARA GITHUB PAGES
+
+Contenido:
+- index.html : invitación web completa.
+
+IMPORTANTE:
+- No cambies el nombre index.html.
+- El archivo incluye los botones de confirmación por WhatsApp.
+- El número configurado es +591 76152528.
+- El clima se consulta en línea para Santa Cruz de la Sierra, Bolivia.
+
+Para publicar:
+1. Crea un repositorio en GitHub.
+2. Sube index.html.
+3. Ve a Settings > Pages.
+4. En Build and deployment selecciona Deploy from a branch.
+5. Elige main y / (root).
+6. Guarda.
+7. Espera unos minutos y abre la URL que GitHub te mostrará.
